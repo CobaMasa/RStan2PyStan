@@ -1,1 +1,1 @@
-# RStantoPyStan
+# RStan2PyStan
